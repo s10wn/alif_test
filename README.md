@@ -1,7 +1,7 @@
 # Тестовое задание Алиф банк
 
-<img src="./preview/main.png"  width="200" height="200">
-<img src="./preview/btn.png" width='200' height='200'>
+<img src="./preview/main.png"  >
+<img src="./preview/btn.png">
 
 
 # Не добавлено
